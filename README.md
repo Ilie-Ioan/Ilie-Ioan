@@ -1,16 +1,16 @@
-## Hi there 👋
+# **Projects**
 
-<!--
-**Ilie-Ioan/Ilie-Ioan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**These are some of the projects done during university courses**
 
-Here are some ideas to get you started:
+- Online shop;  
+  An online shop implemented using HTML, CSS, and JavaScript for the front end, with Node.js for the server-side logic, and a database for storing and managing data.  
+  [Link to repository](https://github.com/Ilie-Ioan/Shop_Online)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Design and Implementation of a RISC-8 Processor.  
+  A RISC-8 processor designed using simplified and efficient RISC principles for the instruction set and register use, with an energy-efficient architecture for embedded systems, and a robust evaluation methodology for performance and power management.  
+  [Link to repository](https://github.com/Ilie-Ioan/RISC-8)
+
+**These are some of the projects done during Google Digital Workshop courses:**
+
+- Verilog modules like demux, mux, alu, encrypter, decrypter, etc.  
+  [Link to repository](https://github.com/Ilie-Ioan/Verilog-Course)
