@@ -14,3 +14,6 @@
 
 - Verilog modules like demux, mux, alu, encrypter, decrypter, etc.  
   [Link to repository](https://github.com/Ilie-Ioan/Verilog-Course)
+
+  **These are some projects and what i am learning or I continnue to learn during an udemy c++ course:**
+  [Link to repository](https://github.com/Ilie-Ioan/C--Learning)
