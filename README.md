@@ -16,4 +16,5 @@
   [Link to repository](https://github.com/Ilie-Ioan/Verilog-Course)
 
   **These are some projects and what i am learning or I continnue to learn during an udemy c++ course:**
+- Master C++ Programming From Beginner To Advance 2024 Edition Udemy course
   [Link to repository](https://github.com/Ilie-Ioan/C--Learning)
